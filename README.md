@@ -10,3 +10,5 @@ Redmi Note 5 Pro
 <br>
 Toyota Fortuner
 <br>
+Samsung galaxy j1 4G
+<br>
